@@ -35,3 +35,5 @@ This project is part of The Odin Project's Foundations course. The goal is to cr
 3) Click the "Generate new grid?" button to set a custom grid size (max 100).
 
 4) Hover your mouse over the grid to start sketching!
+
+HAPPY SKETCHING!!! 
