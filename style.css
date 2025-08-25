@@ -15,3 +15,11 @@ body{
     height: 100vh;
     flex-direction: column;
 }
+
+.grid-square{
+    width: calc(100% / 16);
+    height: calc(100% / 16);
+    background-color: blue;
+    box-sizing: border-box;
+    border: 1px solid white;
+}
