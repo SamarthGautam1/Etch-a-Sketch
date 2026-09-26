@@ -20,7 +20,7 @@ This project is part of The Odin Project's Foundations course. The goal is to cr
 
 - HTML5  
 - CSS3 (Flexbox)  
-- Vanilla JavaScript (DOM manipulation)
+- JavaScript (DOM manipulation)
 
 ---
 
